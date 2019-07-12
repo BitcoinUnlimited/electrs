@@ -46,3 +46,6 @@ sysconf = ">=0.3.4"
 syn = { git = "https://github.com/bitcoin-unlimited/syn" }
 time = "0.1"
 tiny_http = "0.6"
+
+[replace]
+"syn:0.15.39" = { git = 'https://github.com/bitcoin-unlimited/syn' }
