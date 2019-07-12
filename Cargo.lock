@@ -875,7 +875,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 [[package]]
 name = "syn"
 version = "0.15.39"
-source = "git+https://github.com/bitcoin-unlimited/syn#2a8bdd8ff4f589fb9774daaa29c9182193e4e96c"
+source = "git+https://github.com/bitcoin-unlimited/syn#baa8952a2891debf9e3e573bb40f75da31b6867e"
 dependencies = [
  "proc-macro2 0.4.30 (registry+https://github.com/rust-lang/crates.io-index)",
  "quote 0.6.13 (registry+https://github.com/rust-lang/crates.io-index)",
